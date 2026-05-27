@@ -1,6 +1,6 @@
 # AI-Powered Chart Generator with Blazor & Azure OpenAI
 
-Transform natural language into beautiful, interactive data visualizations powered by Blazor and Azure OpenAI.
+Transform natural language into beautiful, interactive data visualizations powered by [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) and Azure OpenAI.
 
 ## Overview
 
@@ -55,7 +55,8 @@ dotnet run
 ## References
 
 
-- [Blazor Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor)
+- [Blazor Documentation](https://blazor.syncfusion.com/documentation/introduction)
+- [Blazor Charts Documentation](https://blazor.syncfusion.com/documentation/chart/getting-started-with-web-app)
 - [Online AI Chart Demo](https://blazor.syncfusion.com/demos/chart/ai-smart-chart?theme=fluent2)
 
 
